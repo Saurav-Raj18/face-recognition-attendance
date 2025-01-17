@@ -1,14 +1,14 @@
-echo "# Face Recognition Attendance System
+echo "# Face Recognition **Attendance** System
 
 ## Description
 
-This project is a Face Recognition Attendance System built using Flask, OpenCV, SQLite, and deep learning techniques. It uses the `face_recognition` library (built on top of `dlib`) for facial detection and recognition, marking attendance based on facial recognition. The attendance data is stored in a local SQLite database.
+This project is a Face Recognition **Attendance** System built using Flask, OpenCV, SQLite, and deep learning techniques. It uses the `face_recognition` library (built on top of `dlib`) for facial detection and recognition, marking **attendance** based on facial recognition. The **attendance** data is stored in a local SQLite database.
 
 ## Features
 
-- Facial Recognition for Attendance (powered by `face_recognition` and `dlib`)
+- Facial Recognition for **Attendance** (powered by `face_recognition` and `dlib`)
 - Real-time Video Feed
-- SQLite Database for Attendance Storage
+- SQLite Database for **Attendance** Storage
 
 ## Prerequisites
 
